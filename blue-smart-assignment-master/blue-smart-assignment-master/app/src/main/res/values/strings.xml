@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Blu Smart</string>
+    <string name="permission_rationale">We need SD Card and location permissions for better experience.</string>
+    <!--App Message-->
+    <string name="api_retry_error">Please retry!</string>
+    <string name="api_default_error">Something wrong happened!</string>
+    <string name="some_error">Some Error Occurred!</string>
+    <string name="connection_error">Internet connection lost!</string>
+
+
+    <string name="complete">All ready Completed</string>
+    <string name="update">Are you sure you want to update duty</string>
+    <string name="Assigned">Assigned</string>
+    <string name="ID">ID</string>
+    <string name="State">State</string>
+    <string name="Type">Type</string>
+    <string name="allDuty">All Duties</string>
+    <string name="dutylist">Duty Detail</string>
+</resources>
